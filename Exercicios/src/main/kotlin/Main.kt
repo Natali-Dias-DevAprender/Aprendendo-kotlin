@@ -1,7 +1,17 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main () {
+    /*
+    Construa um sistema para ler uma variável numérica N e imprimi-la somente se a mesma
+for maior que 100, caso contrário imprimi-la com o valor zero.
+     */
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+        var n =0
+         n = readln().toInt()
+        if(n > 100) {
+            println(n)
+
+        }
+           else{
+               println(0)
+        }
 }
+
