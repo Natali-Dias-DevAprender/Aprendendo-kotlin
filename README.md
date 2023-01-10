@@ -1,5 +1,4 @@
 
-Iniciando os estudos com Kotlin
+<h1Iniciando os estudos com Kotlin\h1>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
-          
+           
